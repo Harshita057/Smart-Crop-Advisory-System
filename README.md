@@ -17,7 +17,7 @@ This project contains a React dashboard, FastAPI backend, Scikit-learn crop clas
 | Optional persistent recommendation history through `MONGODB_URI`; health/history endpoints show whether it is enabled. |
 | API documentation is available at `/docs`. |
 
-## Run 
+## Run Locally
 
 ### 1. Backend
 
